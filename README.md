@@ -8,5 +8,5 @@ Welcome to my first GitHub project! I'm using this repository to practice versio
 - [x] Open and merge a Pull Request
 
 ## Study Schedule
-- **Monday:** Git & GitHub Basics
+- **Monday:** Database Design & SQL
 - **Wednesday:** Software Engineering Classwork
