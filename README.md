@@ -4,5 +4,9 @@ Welcome to my first GitHub project! I'm using this repository to practice versio
 
 ## Goals for This Week
 - [x] Create my first GitHub repository
-- [ ] Learn how to create a new branch
+- [x] Learn how to create a new branch
 - [ ] Open and merge a Pull Request
+
+## Study Schedule
+- **Monday:** Git & GitHub Basics
+- **Wednesday:** Software Engineering Classwork
